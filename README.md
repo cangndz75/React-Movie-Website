@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="logo.png" alt="logo" width="200" height="auto" />
+  <img src="/frontend/public/logo.png" alt="logo" width="200" height="auto" />
   <h1>Gündüz Film Website / React Movie Website </h1>
   
   <p>
