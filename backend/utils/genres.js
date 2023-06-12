@@ -1,0 +1,32 @@
+const genres = [
+  "Aksiyon",
+"Animasyon",
+"Aile",
+"Belgesel",
+"Biyografi",
+"Bilim Kurgu",
+"Drama",
+"Fantastik",
+"Gerilim",
+"Gizem",
+"Haber",
+"Korku",
+"Komedi",
+"Kurgu",
+"Macera",
+"Müzik",
+"Müzikal",
+"Reality TV",
+"Romantik",
+"Savaş",
+"Siyah-Beyaz",
+"Spor",
+"Suç",
+"Süper Kahraman",
+"Talk Show",
+"Tarih",
+"Western",
+"Yarışma Programı"
+];
+
+module.exports = genres;
