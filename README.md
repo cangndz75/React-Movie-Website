@@ -40,7 +40,7 @@
   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Onays%C4%B1z%20Hesap.png" alt="Unauthorized Account" />
   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Film%20Listesi.png" alt="Unauthorized Account 2" />
   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Arama.png" alt="Search Movie or Actor" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Film%Detay.gif" alt="Movie Details" />
+   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Film%20Detay.gif" alt="Movie Details" />
   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Kay%C4%B1t%20Ol.gif" alt="Sign Up" />
   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Spoiler.gif" alt="Spoiler => Blur" />
   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Admin%20Panel%201.png" alt="Admin Panel" />
