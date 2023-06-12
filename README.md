@@ -37,15 +37,15 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Onays%C4%B1z%20Hesap.png" alt="Unauthorized Account" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Film%20Listesi.png" alt="Unauthorized Account 2" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Arama.png" alt="Search Movie or Actor" />
-   <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Film%20Detay.gif" alt="Movie Details" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Kay%C4%B1t%20Ol.gif" alt="Sign Up" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Spoiler.gif" alt="Spoiler => Blur" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Admin%20Panel%201.png" alt="Admin Panel" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Akt%C3%B6r.png" alt="Add Actor" />
-  <img src="/frontend/src/img/Film%20App%20Fotolar%C4%B1/Film%20Ekle.gif" alt="Add Movie" />
+  <img src="https://prnt.sc/VO0L6-Sb7xo6" alt="Unauthorized Account" />
+  <img src="https://prnt.sc/Vlpqp1HA20lv" alt="Unauthorized Account 2" />
+  <img src="https://prnt.sc/MPWWyxBjdKWH" alt="Search Movie or Actor" />
+  <img src="https://prnt.sc/sQqhUfeJwIey" alt="Movie Details" />
+  <img src="https://prnt.sc/PY1nlxdaQOBu" alt="Sign Up" />
+  <img src="https://prnt.sc/d9d_Y5f15Zsx" alt="Spoiler => Blur" />
+  <img src="https://prnt.sc/HApO7xDiqE5N" alt="Admin Panel" />
+  <img src="https://prnt.sc/PhPKiFgiWwaq" alt="Add Actor" />
+  <img src="https://prnt.sc/9YGa6hul1fXs" alt="Add Movie" />
 
 </div>
 
