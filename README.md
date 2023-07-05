@@ -162,7 +162,7 @@ This project is for educational purposes. It is not licensed.
 
 ## :handshake: Contact
 
-Can Gündüz - [@twitter_handle](https://twitter.com/gunduzcan7599) 
+Can Gündüz - https://www.linkedin.com/in/can-g%C3%BCnd%C3%BCz-825159259/
 Spotify - https://open.spotify.com/playlist/6Le3sac5gjbbvICDVnYq2I?si=ccfa3fbc63764eb7
 
 Project Link: [https://github.com/cangndz75/react-movie-website.git]
